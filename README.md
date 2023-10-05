@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Student learning the Data Analytics</h3>
 <img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
 
-- 🔭 I’m currently working on **Generative AI**
+- 🔭 I’m currently working on **Data Analytics**
 
-- 👯 I’m looking to collaborate on **Data Analytics**
+- 🌱  I’m currently learning **Data Visualization**
 
 - 📫 How to reach me **Krishnabsetty@gmail.com**
 
