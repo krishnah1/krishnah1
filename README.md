@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **Krishnabsetty@gmail.com**
 
-- ⚡ Fun fact ** There are only 10 types of people in the world: those who understand binary, and those who don't.**
+- ⚡ Fun fact "There are only 10 types of people in the world: those who understand binary, and those who don't."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
